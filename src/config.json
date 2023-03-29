@@ -1,0 +1,8 @@
+{
+  "engine": 
+  "target":{
+    "type": "maximize",
+    "eq": "3*x1 + 4*x2"
+  }
+
+}
